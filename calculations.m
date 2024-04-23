@@ -5,7 +5,7 @@ close all
 format long
 
 %% USER INPUTS
-
+%You should have this script and all the .dat files in the same folder
 filename = "\pData_ref90_p";   % Set a consistent name for the files please
 path_int = "E:\Dokumentumok\MSc_1\FMM\measurements\04_16";   % Path for the folder where you have your data
 N = 90000;   % Number of datapoints
